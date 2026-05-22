@@ -1,16 +1,36 @@
-## Hi there 👋
+# Suyash Tidke
 
-<!--
-**tidke-suyash/tidke-suyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BCA student from Nashik. I build websites and small web apps —
+mostly frontend stuff with HTML, CSS and JavaScript.
 
-Here are some ideas to get you started:
+Still figuring out the ML side of things but that's the direction I'm heading.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## things i've built
+
+**[Herbal Luxe Layout](https://github.com/tidke-suyash/Herbal-Luxe-Layout)**
+A PWA storefront I made for a client selling herbal products.
+Cart, WhatsApp checkout, dark mode, works offline. Built from scratch.
+
+**[Attendance Tracker](https://github.com/tidke-suyash/Attendance-Tracker)**
+Tracks student attendance. Made this during my BCA — still use the idea.
+
+**[TracePro](https://github.com/tidke-suyash/TracePro)**
+(add one line about what it actually does)
+
+**[StereoLogic](https://github.com/tidke-suyash/StereoLogic)**
+(add one line about what it actually does)
+
+---
+
+## currently
+
+- finishing my BCA
+- learning Python for ML on the side
+- building an Instagram page to document what I make
+
+---
+
+tidkesuyash328@gmail.com
+@suyash.build.it
