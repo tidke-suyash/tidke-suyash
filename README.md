@@ -24,7 +24,6 @@ I build practical projects that solve small real-world problems while improving 
 
 ## 🎵 StereoLogic
 A lightweight MP3 player inspired by classic applications like Winamp and JetAudio.  
-Designed for simple local music playback with a clean desktop-style UI.
 
 ## ✅ Attendance Tracker
 A simple attendance management project developed during BCA learning and experimentation.
