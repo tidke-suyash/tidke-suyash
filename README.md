@@ -59,4 +59,4 @@ HTML • CSS • JavaScript • Python
 # Contact
 
 📧 tidkesuyash328@gmail.com  
-📷 @suyash.build.it
+📷 @suyash.build.it 
